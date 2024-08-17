@@ -58,7 +58,26 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|214025000|102037500|2cabb4a1-c54e-44db-b95b-74c687da4c41|7f66004e-3a76-4d10-ba9f-1e1070c59e24",
+        "clearance|71150000|102037500|897a1721-7ffd-4eab-a2b7-7c59591c74be|0505f27f-aa52-4450-92ef-9de482386739",
+        "courtyards_overlap|123968751|96187501|ae7ca5d1-bb97-4c14-b8d0-78df6348f674|c0b23d16-fb75-4af4-a5c0-79dac181517a",
+        "courtyards_overlap|152775001|64462501|237bd070-7950-40b4-998a-3a11804f4882|b5721c7d-21fd-4062-af32-14287a9a047a",
+        "courtyards_overlap|169212501|96187501|992f37b8-1a0f-4928-8d8c-91f611cf89e5|eb4ec37c-7cce-4a3c-afc7-7d3d3dcb9a64",
+        "courtyards_overlap|213192144|96187501|cae645ee-2992-4ce5-a514-a69d6e5c979f|edfc9bdc-3e22-45f4-956c-de4f83f145ef",
+        "courtyards_overlap|70317144|96187501|0d05fa8e-f82f-401a-a27f-9e6463c7ad41|caf46bfa-c71c-4023-8cde-8a58ae172183",
+        "hole_clearance|195262500|94932500|fc05a557-a215-4fdf-9c0d-12bd2abc2434|1740789f-4fa3-447b-85f1-e05b18fee672",
+        "hole_clearance|213995000|103187500|2cabb4a1-c54e-44db-b95b-74c687da4c41|626c9f7d-691c-4bec-8859-4ae240492ecb",
+        "hole_clearance|224155000|103187500|e6ae8d2e-150f-46fa-8699-f683f8207f11|737883a1-43ef-4d98-b78a-13926266c40a",
+        "hole_clearance|71120000|103187500|897a1721-7ffd-4eab-a2b7-7c59591c74be|4ffa46f5-d514-483e-a410-fb204dce2889",
+        "hole_clearance|81280000|103187500|befb5eae-1cc3-402e-a690-b967dedf9202|913c68d8-b328-4553-899e-68e2fd72baf2",
+        "hole_near_hole|125888750|103187500|03e5a150-8960-46e8-9460-8ef19ee3617f|d32e2d91-ee71-40dd-ab9b-5d164674c209",
+        "hole_near_hole|169386250|103187500|6e3b799e-a57f-4ea4-9da5-fcd340895c61|5e1ce1f8-f188-4582-9de0-a8e1da207899",
+        "solder_mask_bridge|214025000|103187500|626c9f7d-691c-4bec-8859-4ae240492ecb|2cabb4a1-c54e-44db-b95b-74c687da4c41",
+        "solder_mask_bridge|224125000|103187500|737883a1-43ef-4d98-b78a-13926266c40a|e6ae8d2e-150f-46fa-8699-f683f8207f11",
+        "solder_mask_bridge|71150000|103187500|4ffa46f5-d514-483e-a410-fb204dce2889|897a1721-7ffd-4eab-a2b7-7c59591c74be",
+        "solder_mask_bridge|81250000|103187500|913c68d8-b328-4553-899e-68e2fd72baf2|befb5eae-1cc3-402e-a690-b967dedf9202"
+      ],
       "meta": {
         "version": 2
       },
@@ -447,7 +466,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "oba new project.kicad_pro",
+    "filename": "ferntypes.kicad_pro",
     "version": 1
   },
   "net_settings": {
